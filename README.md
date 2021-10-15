@@ -1,0 +1,1 @@
+Olá! Este é um repositório que tem o objetivo de auxiliar iniciantes a compreenderem e iniciarem contribuições Open Source.
